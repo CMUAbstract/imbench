@@ -4,3 +4,6 @@
 [submodule "ext/maker"]
 	path = ext/maker
 	url = https://github.com/CMUAbstract/maker
+[submodule "tools/mementos"]
+	path = tools/mementos
+	url = https://github.com/CMUAbstract/mementos
