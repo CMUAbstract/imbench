@@ -1,0 +1,3 @@
+[submodule "apps/app-blinker"]
+	path = apps/app-blinker
+	url = https://github.com/CMUAbstract/app-blinker
