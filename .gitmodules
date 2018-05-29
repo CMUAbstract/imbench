@@ -2,7 +2,7 @@
 	path = apps/app-blinker
 	url = https://github.com/CMUAbstract/app-blinker
 [submodule "ext/maker"]
-	path = ext/maker
+	path = tools/maker
 	url = https://github.com/CMUAbstract/maker
 [submodule "tools/mementos"]
 	path = tools/mementos
