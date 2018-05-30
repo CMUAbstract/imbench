@@ -7,3 +7,9 @@
 [submodule "tools/mementos"]
 	path = tools/mementos
 	url = https://github.com/CMUAbstract/mementos
+[submodule "ext/libio"]
+	path = ext/libio
+	url = https://github.com/CMUAbstract/libio.git
+[submodule "ext/libmsp"]
+	path = ext/libmsp
+	url = https://github.com/CMUAbstract/libmsp.git
