@@ -13,3 +13,6 @@
 [submodule "ext/libmsp"]
 	path = ext/libmsp
 	url = https://github.com/CMUAbstract/libmsp.git
+[submodule "ext/libmspbuiltins"]
+	path = ext/libmspbuiltins
+	url = https://github.com/CMUAbstract/libmspbuiltins.git
