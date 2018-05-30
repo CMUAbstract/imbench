@@ -37,26 +37,27 @@ TOOLCHAINS = \
 	clang \
 	mementos \
 
+APPS = \
+	app-blinker \
+
 
 ifeq ($(BOARD),capybara)
-DEPS += \
+SHARED_DEPS = \
 	libcapybara \
 	libfxl:gcc \
 	libmspware:gcc \
 
 endif # BOARD == capybara
 
-DEPS += \
+SHARED_DEPS += \
 	libio \
 	libmsp \
 
 ifeq ($(BOARD),edb)
-DEPS += \
+SHARED_DEPS += \
 	libmspware:gcc \
 
 endif # BOARD == edb
-
-
 
 ifeq ($(BOARD),edb)
 
